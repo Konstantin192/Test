@@ -1,5 +1,7 @@
 package triangles;
 
+//blablabla test
+
 public class EquilaterialTriangle extends Triangle {
     
     public EquilaterialTriangle() {

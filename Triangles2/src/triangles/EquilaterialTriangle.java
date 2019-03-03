@@ -15,6 +15,7 @@ public class EquilaterialTriangle extends Triangle {
     protected double area() {
         double area = a * a * Math.sqrt(3.0)/4.0;
         System.out.println("Test");
+        System.out.println("Test2");
         return area;
     }
 
